@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
 
         println("This Is our second commit")
 
-        jfkafjkafjakjfa;lfjks
+        today is a good day
 
     }
 }
